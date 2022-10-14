@@ -1,6 +1,6 @@
 # SearchAPI-NodeJs
 
-### Requiremennts
+### Requirements
 
     NodeJs, Cheerio, Express, Axios, Cors
 
