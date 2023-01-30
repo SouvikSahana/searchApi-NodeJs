@@ -19,4 +19,4 @@
 
 ### Website
 
-    https://search-api-ss.herokuapp.com/query?search=elon musk&type=news
+    https://brash-debonair-butterkase.glitch.me/query?search=elon musk&type=images
